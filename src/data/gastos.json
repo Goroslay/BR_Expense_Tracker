@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "fecha": "2024-11-29T03:41:13.630Z",
+    "descripcion": "prueba",
+    "monto": "50"
+  },
+  {
+    "id": 2,
+    "fecha": "2024-11-29T03:41:16.593Z",
+    "descripcion": "prueba",
+    "monto": 100
+  }
+]

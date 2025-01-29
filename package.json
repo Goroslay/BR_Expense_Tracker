@@ -1,0 +1,22 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "@jest/environment": "^29.7.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
